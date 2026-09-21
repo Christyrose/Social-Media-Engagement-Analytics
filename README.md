@@ -35,8 +35,9 @@ This project analyzes social media engagement data using Python to identify patt
 
 ## Files
 
-- `Social_Media_Engagement_Analytics.ipynb` – Analysis notebook
-- `social_media_engagement_5000.csv` – Dataset
+- 'Social_Media_Engagement_Analytics.ipynb' – Analysis notebook
+- 'social_media_engagement_5000.csv' – Dataset
+- 'Line Chart Screenshot'.png
 
 ## Conclusion
 
